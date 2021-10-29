@@ -7,6 +7,6 @@ O teste está voltado para a API pública https://petstore.swagger.io/ fazendo u
 <p><strong>PUT:</strong> realiza a edição de um dado do Pet;</p>
 <p><strong>DELETE:</strong> apaga da base de dados o Pet cadastrado.</p>
 
-IDE utilizada: Intellij IDEA
-Linguagem de Programação: Java
-Bibliotecas: testng, rest-assured, json
+<strong>IDE utilizada:</strong> Intellij IDEA<br>
+<strong>Linguagem de Programação:</strong> Java<br>
+<strong>Bibliotecas:</strong> testng, rest-assured, json
